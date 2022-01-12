@@ -17,11 +17,11 @@ body{
 }
 ul.menu{
     list-style-type: none;
-    background-color:#11bfae;
+    background-color:#15BFBF;
     overflow: hidden;
     margin: 0px;
     padding: 0px;
-    opacity: 0.8;
+    
 }
 li.menu a{
     float: left;
@@ -35,20 +35,21 @@ li.menu a:hover{
     background-color: #223740;
     color: #f2f2f2;
 }
-div.busqueda{
-    width: 40%;
-    margin-top: 10px;
-}
-.boton-busqueda{
-    background-color: #223740;
-    color: #f2f2f2;
-    width: 30%;
-        
-}
-.cuadro-busqueda{
-    width: 40%;
+.resumen{
+    width: 90%;
+    margin: auto;
+    height: 200px;
 }
 .carrusel{
+    width: 90%;
+    margin: auto;
+}
+.marcas{
+    width: 90%;
+    margin: auto;
+    height: 200px;
+}
+.servicios{
     width: 90%;
     margin: auto;
 }
