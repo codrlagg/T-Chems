@@ -30,3 +30,16 @@ li.menu a:hover{
     background-color: #223740;
     color: #f2f2f2;
 }
+div.busqueda{
+    width: 40%;
+    margin-top: 10px;
+}
+.boton-busqueda{
+    background-color: #223740;
+    color: #f2f2f2;
+    width: 30%;
+        
+}
+.cuadro-busqueda{
+    width: 40%;
+}
